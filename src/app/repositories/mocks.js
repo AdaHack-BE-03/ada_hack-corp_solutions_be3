@@ -1,4 +1,4 @@
-const usuariosMock = [
+const dataMock  = [
     {
       id: '1',
       primeiro_nome: 'João',
@@ -35,4 +35,4 @@ const usuariosMock = [
     },
   ];
   
-export default usuariosMock;
+export default dataMock ;
